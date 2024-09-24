@@ -16,11 +16,11 @@ A Kanban board application built using **React**, **Dnd Kit** for drag-and-drop 
 
 ## Screenshots
 -Dashboard
-![Dashboard](https://github.com/Sanjay2349/Kanban-React-app/blob/master/assets/screen-2.png)
+![Dashboard](https://github.com/Sanjay2349/Kanban-React-App/blob/main/assets/screen-2.png)
 -Create new issues
-![Create new Issues](https://github.com/Sanjay2349/Kanban-React-app/blob/master/assets/screen-1.png)
+![Create new Issues](https://github.com/Sanjay2349/Kanban-React-app/blob/main/assets/screen-1.png)
 -Search for issues
-![Search for issues](https://github.com/Sanjay2349/Kanban-React-app/blob/master/assets/screen-3.png)
+![Search for issues](https://github.com/Sanjay2349/Kanban-React-app/blob/main/assets/screen-3.png)
 
 
 ## Technologies Used
